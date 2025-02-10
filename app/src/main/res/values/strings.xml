@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android_Project_1</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="button1_text">Button 1</string>
+    <string name="button2_text">Button 2</string>
+    <string name="phone_hint">Enter a phone number</string>
+    <string name="welcome">Welcome!</string>
 </resources>
